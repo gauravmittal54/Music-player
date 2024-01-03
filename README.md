@@ -19,18 +19,12 @@ The Media Player App is an Android application developed in Java using Android S
 - Android Studio
 - Android SDK Version: 21 and above
 
-## Screenshots
-(Add screenshots or GIFs showcasing the app in action)
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contributing
 Feel free to contribute to the project by opening issues or pull requests.
 
-## Acknowledgments
+## Library used
 - Dexter library for simplified permission handling.
 
 ## Contact
-For any inquiries or suggestions, please contact [Your Name] at [your.email@example.com].
+For any inquiries or suggestions, please contact at [gauravmittal54bd@gmail.com].
 
